@@ -7,5 +7,5 @@ for(var i=2; i<=n; i++){
             isPrime = false;
         }
     }
-    if(isPrime === true){
+    if(isPrime == true){
         console.log(i);
