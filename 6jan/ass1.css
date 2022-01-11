@@ -1,0 +1,46 @@
+p.l1:first-letter{
+    color: rgb(102, 255, 0);
+   
+    font-size: 100px;
+    display:block;
+    line-height:0.5;
+    float: left;
+    margin: 15px 15px 10px 0;
+}
+div{
+    margin:auto;
+    width: 50%;
+  
+    border:3px solid #21ada1;
+    padding: 20px;
+  
+}
+h1{
+    color: rgb(0, 134, 139);
+  
+    margin-top: 50px;
+    text-align: center;
+   
+}
+p1{
+    color: rgb(175, 117, 10);
+}
+p2{
+    color: rgb(180, 180, 11);
+}
+p3{
+    color: rgb(216, 186, 15);
+}
+p4{
+    color: rgb(250, 225, 0);
+}
+p5{
+    color: rgb(180, 117, 8);
+}
+p6{
+    color: rgb(152, 223, 251);
+}
+body{
+    background-color: rgb(240, 255, 250);
+}
+
