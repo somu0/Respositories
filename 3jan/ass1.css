@@ -1,0 +1,39 @@
+
+body{
+    background-color: rgba(11, 247, 235, 0.932);
+}
+.title{
+    color: rgb(184, 230, 21);
+}
+table{
+    background-color: rgba(128, 120, 124, 0.274);
+}
+
+
+  
+
+.c1{
+    background-color: rgb(20, 18, 1);
+    color: rgb(236, 240, 11);
+
+}
+.c2{
+    background-color:rgb(20, 18, 1);
+    color: rgb(236, 240, 11);
+}
+.c3{
+    color: rgb(236, 240, 11);
+    background-color: rgb(20, 18, 1);
+}
+.c4{
+    color: rgb(236, 240, 11);
+    background-color: rgb(20, 18, 1);
+}
+.c5{
+    color: rgb(236, 240, 11);
+    background-color: rgb(20, 18, 1);
+}
+h3{
+    color:rgb(255, 51, 0);
+}
+

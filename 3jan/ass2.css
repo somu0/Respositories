@@ -1,0 +1,28 @@
+#p0{
+    background-image: url("https://pbs.twimg.com/media/DeWtIm7U0AEjJnI?format=jpg&name=large") ;
+    background-size: cover;
+    background-position: center;
+    margin: auto;
+}
+#p1{
+    border-radius: 50%;
+    color: gold;
+}
+#p2{
+    color: hotpink;
+}    
+#p3{
+    color: rgb(7, 5, 5);
+}
+#p4{
+    color: gold;
+}
+#p5{
+    color: white;
+}
+#p6{
+    color: gold;
+}
+#p7{
+    color: white;
+}
