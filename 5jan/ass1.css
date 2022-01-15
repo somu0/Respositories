@@ -1,7 +1,7 @@
 
 #p3{
     text-align: end;
-    background-color:bisque;
+   
     font-size:x-large;
     height: 50px;
     
@@ -24,7 +24,6 @@ html{
 }
 #p5{
     text-align: center;
-    background-color:rgb(196, 255, 201);
     font-size:larger;
     height: 50px;
 }
