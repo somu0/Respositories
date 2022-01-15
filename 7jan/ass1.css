@@ -1,0 +1,33 @@
+article{
+    margin: auto;
+    margin-top: 300px;
+    width: 200px;
+    height: 250px;
+    border: 1px solid transparent;
+    background-color: rgb(15, 215, 250);
+}
+#T1{
+    position: relative;
+    width: 0;
+    height: 0;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-bottom: 60px solid orange;
+}
+#T2{
+    position: relative;
+    width: 0;
+    height: 0;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-bottom: 60px solid white;
+
+}
+#T3{
+    position: relative;
+    width: 0;
+    height: 0;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-bottom: 60px solid green;
+}
