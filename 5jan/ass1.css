@@ -1,0 +1,29 @@
+
+#p3{
+    text-align: end;
+   
+    font-size:x-large;
+    height: 50px;
+    
+}
+#orange{
+    color: orange;
+    
+}
+#white{
+    color:white
+}
+#green{
+    color: green;
+}
+html{
+    background-color: skyblue;
+}
+#p4{
+    text-align: center;
+}
+#p5{
+    text-align: center;
+    font-size:larger;
+    height: 50px;
+}
