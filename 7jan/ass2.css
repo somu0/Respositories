@@ -1,0 +1,30 @@
+
+#p3{
+    text-align: end;
+    background-color:bisque;
+    font-size:x-large;
+    height: 50px;
+    
+}
+#orange{
+    color: orange;
+    
+}
+#white{
+    color:white
+}
+#green{
+    color: green;
+}
+html{
+    background-color: skyblue;
+}
+#p4{
+    text-align: center;
+}
+#p5{
+    text-align: center;
+    background-color:rgb(196, 255, 201);
+    font-size:larger;
+    height: 50px;
+}
