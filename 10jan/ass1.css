@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#p1{
+    margin: 60px;
+}
+
+#p2{
+    background-color: darkgoldenrod;
+    padding: 1px;
+    text-align: center;
+    font-family: sans-serif;
+}
+#p3{
+    background-color: aquamarine;
+    font-size: larger;
+    font-family: sans-serif;
+}
+#p4{
+    display:flex;
+}
+#p5{
+    height: 60%;
+    width: 60%;
+    background-color: blanchedalmond;
+    padding: 2px;
+    text-align: center;
+    font-size: larger;
+    font-family: sans-serif;
+}
+#p6{
+    display: inline-block;
+    flex-direction: row;
+    height: 60%;
+    width: 60%;
+    background-color: rgb(205, 233, 255);
+    padding: 2px;
+    text-align: center;
+    font-size: larger;
+    font-family: sans-serif;
+}
+#p7{
+    background-color: burlywood;
+    padding: 2px;
+    text-align: center;
+    font-family: sans-serif;
+}
+#p1,p{
+    font-size: larger;
+}
